@@ -1,1 +1,1 @@
-# React_pratice
+# React_tic_tac_toe
